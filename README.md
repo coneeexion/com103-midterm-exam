@@ -50,3 +50,9 @@ Instead of guessing who is doing what, this program acts as a lightweight digita
 * 🏆 **Progress ≥ 75%:** PROJECT READY!
 * 📈 **Progress ≥ 50%:** ON TRACK.
 * ⚠️ **Progress < 50%:** NEEDS MORE WORK!
+
+---
+
+## 👤 Author
+
+* **James Patrick A. Paulino** - [GitHub Profile](https://github.com/coneeexion)
